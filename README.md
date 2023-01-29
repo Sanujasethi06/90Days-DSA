@@ -1,6 +1,6 @@
 # 90Days-DSA
 
-DAT 1
+DAY 1
 -----
 -On day 1 learned about difference between DATA STRUCTURE and ALGORITHM
 -Difference between DATABASE,DATA WAREHOUSE and BIG DATA
@@ -14,5 +14,7 @@ DAT 1
   ----------------------------------
   -DEFINATION AND HOW TIME COMPLEXITY IS INCREASES WITH SPACE COMPLEXITY
   -EXPLANATION FOR BIG O NOTATION WITH METAPHORICAL DEFINATION
-  
+ 
+  ASYMPTOTIC:
+  ----------
   
