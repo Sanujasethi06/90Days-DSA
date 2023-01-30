@@ -21,3 +21,11 @@ Difference between DATABASE,DATA WAREHOUSE and BIG DATA
   ASYMPTOTIC:
   ----------
   
+  BIG 'O' NOTATION:
+  
+  
+  BIG OMEGA:
+  
+  
+  BIG THETA:
+  
