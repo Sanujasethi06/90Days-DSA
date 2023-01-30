@@ -22,6 +22,10 @@ Difference between DATABASE,DATA WAREHOUSE and BIG DATA
   ----------
   
   BIG 'O' NOTATION:
+  -----------------
+  A FUNCTION F(n) IS SAID TO BE O(g(n)) IF AND ONLY IF THERE EXISTS CONSTANT 'C' & A CONSTANT  N_0 STATE THAT
+  
+  i.e 0<=F(N)<=C g(n)
   
   
   BIG OMEGA:
